@@ -1,5 +1,16 @@
 [
   {
+    "package": "MSBMisc"
+  },
+  {
+    "package": "effectsize",
+    "oncran": true
+  },
+  {
+    "package": "bayestestR",
+    "oncran": true
+  },
+  {
     "package": "cheatR",
     "oncran": true
   }
