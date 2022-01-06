@@ -6,12 +6,6 @@
     "from": "effectsize"
   },
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["effectsize"],
-    "from": "effectsize"
-  },
-  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize", "parameters"],
