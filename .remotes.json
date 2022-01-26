@@ -1,8 +1,0 @@
-[
-  {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["effectsize"],
-    "from": "effectsize"
-  }
-]
