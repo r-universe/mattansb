@@ -23,3 +23,8 @@
 	url = https://github.com/mattansb/cheatR
 	shallow = true
 	registered = true
+[submodule "insight"]
+	path = insight
+	url = https://github.com/easystats/insight
+	shallow = true
+	registered = false
