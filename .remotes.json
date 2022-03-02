@@ -4,5 +4,17 @@
     "url": "https://github.com/easystats/insight",
     "via": ["effectsize"],
     "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "performance"],
+    "from": "effectsize"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["effectsize"],
+    "from": "effectsize"
   }
 ]

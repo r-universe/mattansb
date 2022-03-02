@@ -28,3 +28,8 @@
 	url = https://github.com/easystats/insight
 	shallow = true
 	registered = false
+[submodule "performance"]
+	path = performance
+	url = https://github.com/easystats/performance
+	shallow = true
+	registered = false
