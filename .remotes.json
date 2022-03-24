@@ -24,6 +24,12 @@
     "from": "effectsize"
   },
   {
+    "package": "ggtrace",
+    "url": "https://github.com/yjunechoe/ggtrace",
+    "via": ["MSBMisc"],
+    "from": "MSBMisc"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],

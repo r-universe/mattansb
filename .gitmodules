@@ -28,6 +28,11 @@
 	url = https://github.com/easystats/datawizard
 	shallow = true
 	registered = false
+[submodule "ggtrace"]
+	path = ggtrace
+	url = https://github.com/yjunechoe/ggtrace
+	shallow = true
+	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
