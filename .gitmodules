@@ -48,8 +48,3 @@
 	url = https://github.com/easystats/performance
 	shallow = true
 	registered = false
-[submodule "see"]
-	path = see
-	url = https://github.com/easystats/see
-	shallow = true
-	registered = false
