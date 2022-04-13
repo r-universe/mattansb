@@ -11,6 +11,7 @@
     "oncran": true
   },
   {
-    "package": "cheatR"
+    "package": "cheatR",
+    "oncran": false
   }
 ]
