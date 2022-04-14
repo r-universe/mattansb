@@ -12,6 +12,6 @@
   },
   {
     "package": "cheatR",
-    "oncran": false
+    "oncran": true
   }
 ]
