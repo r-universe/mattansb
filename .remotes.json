@@ -1,5 +1,41 @@
 [
   {
+    "package": "bayestestR",
+    "url": "https://github.com/easystats/bayestestR",
+    "via": ["effectsize"],
+    "from": "effectsize"
+  },
+  {
+    "package": "correlation",
+    "url": "https://github.com/easystats/correlation",
+    "via": ["effectsize"],
+    "from": "effectsize"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["effectsize"],
+    "from": "effectsize"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["effectsize", "parameters"],
+    "from": "effectsize"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["effectsize", "performance"],
+    "from": "effectsize"
+  },
+  {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["effectsize", "correlation"],
+    "from": "effectsize"
+  },
+  {
     "package": "ggtrace",
     "url": "https://github.com/yjunechoe/ggtrace",
     "via": ["MSBMisc"],
@@ -10,5 +46,29 @@
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
     "from": "bayestestR"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "parameters"],
+    "from": "effectsize"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["effectsize", "bayestestR"],
+    "from": "effectsize"
+  },
+  {
+    "package": "parameters",
+    "url": "https://github.com/easystats/parameters",
+    "via": ["effectsize"],
+    "from": "effectsize"
+  },
+  {
+    "package": "performance",
+    "url": "https://github.com/easystats/performance",
+    "via": ["effectsize"],
+    "from": "effectsize"
   }
 ]

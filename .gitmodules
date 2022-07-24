@@ -23,6 +23,16 @@
 	url = https://github.com/mattansb/cheatR
 	shallow = true
 	registered = true
+[submodule "correlation"]
+	path = correlation
+	url = https://github.com/easystats/correlation
+	shallow = true
+	registered = false
+[submodule "datawizard"]
+	path = datawizard
+	url = https://github.com/easystats/datawizard
+	shallow = true
+	registered = false
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
@@ -31,5 +41,15 @@
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight
+	shallow = true
+	registered = false
+[submodule "parameters"]
+	path = parameters
+	url = https://github.com/easystats/parameters
+	shallow = true
+	registered = false
+[submodule "performance"]
+	path = performance
+	url = https://github.com/easystats/performance
 	shallow = true
 	registered = false
