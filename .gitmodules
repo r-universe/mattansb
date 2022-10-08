@@ -28,8 +28,3 @@
 	url = https://github.com/yjunechoe/ggtrace
 	shallow = true
 	registered = false
-[submodule "parameters"]
-	path = parameters
-	url = https://github.com/easystats/parameters
-	shallow = true
-	registered = false
