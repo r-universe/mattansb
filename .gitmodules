@@ -28,9 +28,3 @@
 	url = https://github.com/yjunechoe/ggtrace
 	shallow = true
 	registered = false
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
-	shallow = true
-	branch = revise_get_data
-	registered = false
