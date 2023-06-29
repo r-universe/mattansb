@@ -1,30 +1,20 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mattansb/universe
-	shallow = true
 	branch = HEAD
 [submodule "MSBMisc"]
 	path = MSBMisc
 	url = https://github.com/mattansb/MSBMisc
-	shallow = true
-	registered = true
 [submodule "effectsize"]
 	path = effectsize
 	url = https://github.com/easystats/effectsize
-	shallow = true
-	registered = true
 [submodule "bayestestR"]
 	path = bayestestR
 	url = https://github.com/easystats/bayestestR
-	shallow = true
-	registered = true
 [submodule "cheatR"]
 	path = cheatR
 	url = https://github.com/mattansb/cheatR
-	shallow = true
-	registered = true
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
-	shallow = true
 	registered = false
