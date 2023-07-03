@@ -14,6 +14,10 @@
 [submodule "cheatR"]
 	path = cheatR
 	url = https://github.com/mattansb/cheatR
+[submodule "emmeans"]
+	path = emmeans
+	url = https://github.com/rvlenth/emmeans
+	registered = false
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
