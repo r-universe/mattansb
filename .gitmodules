@@ -5,15 +5,15 @@
 [submodule "MSBMisc"]
 	path = MSBMisc
 	url = https://github.com/mattansb/MSBMisc
-[submodule "effectsize"]
-	path = effectsize
-	url = https://github.com/easystats/effectsize
 [submodule "bayestestR"]
 	path = bayestestR
 	url = https://github.com/easystats/bayestestR
 [submodule "cheatR"]
 	path = cheatR
 	url = https://github.com/mattansb/cheatR
+[submodule "effectsize"]
+	path = effectsize
+	url = https://github.com/easystats/effectsize
 [submodule "emmeans"]
 	path = emmeans
 	url = https://github.com/rvlenth/emmeans
