@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/mattansb/universe
+	url = https://github.com/mattansb/mattansb.r-universe.dev
 	branch = HEAD
 [submodule "MSBMisc"]
 	path = MSBMisc
