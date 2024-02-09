@@ -1,20 +1,8 @@
 [
   {
-    "package": "emmeans",
-    "url": "https://github.com/rvlenth/emmeans",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
     "package": "ggtrace",
     "url": "https://github.com/yjunechoe/ggtrace",
     "via": ["MSBMisc"],
     "from": "MSBMisc"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
   }
 ]

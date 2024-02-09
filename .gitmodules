@@ -14,15 +14,7 @@
 [submodule "effectsize"]
 	path = effectsize
 	url = https://github.com/easystats/effectsize
-[submodule "emmeans"]
-	path = emmeans
-	url = https://github.com/rvlenth/emmeans
-	registered = false
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
-	registered = false
-[submodule "insight"]
-	path = insight
-	url = https://github.com/easystats/insight
 	registered = false
