@@ -1,8 +1,26 @@
 [
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["bayestestR"],
+    "from": "bayestestR"
+  },
+  {
     "package": "ggtrace",
     "url": "https://github.com/yjunechoe/ggtrace",
     "via": ["MSBMisc"],
     "from": "MSBMisc"
+  },
+  {
+    "package": "insight",
+    "url": "https://github.com/easystats/insight",
+    "via": ["bayestestR"],
+    "from": "bayestestR"
+  },
+  {
+    "package": "modelbased",
+    "url": "https://github.com/easystats/modelbased",
+    "via": ["bayestestR", "datawizard"],
+    "from": "bayestestR"
   }
 ]
