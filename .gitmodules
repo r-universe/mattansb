@@ -30,3 +30,11 @@
 	path = modelbased
 	url = https://github.com/easystats/modelbased
 	registered = false
+[submodule "parameters"]
+	path = parameters
+	url = https://github.com/easystats/parameters
+	registered = false
+[submodule "performance"]
+	path = performance
+	url = https://github.com/easystats/performance
+	registered = false
