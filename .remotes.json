@@ -12,15 +12,15 @@
     "from": "MSBMisc"
   },
   {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR", "datawizard"],
+    "package": "marginaleffects",
+    "url": "https://github.com/vincentarelbundock/marginaleffects",
+    "via": ["bayestestR"],
     "from": "bayestestR"
   },
   {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["bayestestR", "datawizard", "insight"],
+    "package": "tinysnapshot",
+    "url": "https://github.com/vincentarelbundock/tinysnapshot",
+    "via": ["bayestestR", "marginaleffects"],
     "from": "bayestestR"
   }
 ]
