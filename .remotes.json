@@ -1,26 +1,8 @@
 [
   {
-    "package": "datawizard",
-    "url": "https://github.com/easystats/datawizard",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
     "package": "ggtrace",
     "url": "https://github.com/yjunechoe/ggtrace",
     "via": ["MSBMisc"],
     "from": "MSBMisc"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
-    "package": "tinysnapshot",
-    "url": "https://github.com/vincentarelbundock/tinysnapshot",
-    "via": ["bayestestR", "marginaleffects"],
-    "from": "bayestestR"
   }
 ]

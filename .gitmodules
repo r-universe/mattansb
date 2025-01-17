@@ -11,22 +11,10 @@
 [submodule "cheatR"]
 	path = cheatR
 	url = https://github.com/mattansb/cheatR
-[submodule "datawizard"]
-	path = datawizard
-	url = https://github.com/easystats/datawizard
-	registered = false
 [submodule "effectsize"]
 	path = effectsize
 	url = https://github.com/easystats/effectsize
 [submodule "ggtrace"]
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
-	registered = false
-[submodule "marginaleffects"]
-	path = marginaleffects
-	url = https://github.com/vincentarelbundock/marginaleffects
-	registered = false
-[submodule "tinysnapshot"]
-	path = tinysnapshot
-	url = https://github.com/vincentarelbundock/tinysnapshot
 	registered = false
