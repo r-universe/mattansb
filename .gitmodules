@@ -18,6 +18,11 @@
 	path = ggtrace
 	url = https://github.com/yjunechoe/ggtrace
 	registered = false
+[submodule "glmmTMB"]
+	path = glmmTMB
+	url = https://github.com/glmmTMB/glmmTMB
+	subdir = glmmTMB
+	registered = false
 [submodule "insight"]
 	path = insight
 	url = https://github.com/easystats/insight

@@ -6,6 +6,13 @@
     "from": "MSBMisc"
   },
   {
+    "package": "glmmTMB",
+    "url": "https://github.com/glmmTMB/glmmTMB",
+    "via": ["bayestestR", "insight"],
+    "subdir": "glmmTMB",
+    "from": "bayestestR"
+  },
+  {
     "package": "insight",
     "url": "https://github.com/easystats/insight",
     "via": ["bayestestR"],
