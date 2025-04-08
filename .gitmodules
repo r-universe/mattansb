@@ -22,3 +22,11 @@
 	path = insight
 	url = https://github.com/easystats/insight
 	registered = false
+[submodule "modelbased"]
+	path = modelbased
+	url = https://github.com/easystats/modelbased
+	registered = false
+[submodule "parameters"]
+	path = parameters
+	url = https://github.com/easystats/parameters
+	registered = false
