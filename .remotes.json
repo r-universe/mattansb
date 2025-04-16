@@ -1,5 +1,11 @@
 [
   {
+    "package": "datawizard",
+    "url": "https://github.com/easystats/datawizard",
+    "via": ["bayestestR", "modelbased", "parameters"],
+    "from": "bayestestR"
+  },
+  {
     "package": "ggtrace",
     "url": "https://github.com/yjunechoe/ggtrace",
     "via": ["MSBMisc"],
