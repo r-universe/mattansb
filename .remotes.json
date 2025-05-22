@@ -1,26 +1,8 @@
 [
   {
-    "package": "bayestestR",
-    "url": "https://github.com/easystats/bayestestR",
-    "via": ["effectsize", "parameters"],
-    "from": "effectsize"
-  },
-  {
     "package": "ggtrace",
     "url": "https://github.com/yjunechoe/ggtrace",
     "via": ["MSBMisc"],
     "from": "MSBMisc"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["effectsize", "parameters"],
-    "from": "effectsize"
-  },
-  {
-    "package": "parameters",
-    "url": "https://github.com/easystats/parameters",
-    "via": ["effectsize"],
-    "from": "effectsize"
   }
 ]
