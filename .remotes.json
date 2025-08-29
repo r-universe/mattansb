@@ -4,17 +4,5 @@
     "url": "https://github.com/yjunechoe/ggtrace",
     "via": ["MSBMisc"],
     "from": "MSBMisc"
-  },
-  {
-    "package": "insight",
-    "url": "https://github.com/easystats/insight",
-    "via": ["bayestestR"],
-    "from": "bayestestR"
-  },
-  {
-    "package": "marginaleffects",
-    "url": "https://github.com/vincentarelbundock/marginaleffects",
-    "via": ["bayestestR", "insight"],
-    "from": "bayestestR"
   }
 ]
